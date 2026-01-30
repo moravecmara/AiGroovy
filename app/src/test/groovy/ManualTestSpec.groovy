@@ -1,1 +1,0 @@
-Tvým požadavkům na zadání neodpovídá žádný konkrétní námět. Zadej, prosím, konkrétní námět nebo specifikaci, kterou mám implementovat do Groovy testu.
