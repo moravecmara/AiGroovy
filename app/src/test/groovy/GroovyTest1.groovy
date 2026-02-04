@@ -6,15 +6,8 @@ class GroovyTest1 {
 
     @Test
     void mathsOp() {
-        assert add(a, b) == 7
-        assert multiply(a, b) == 10
+        assert MathUtils.add(a, b) == 7
+        assert MathUtils.multiply(a, b) == 10
     }
 
-    int add(int a, int b) {
-        a + b
-    }
-
-    int multiply(int a, int b) {
-        a * b
-    }
 }
