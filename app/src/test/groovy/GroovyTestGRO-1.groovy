@@ -2,7 +2,7 @@ package app/src/test/groovy;
  
 import org.junit.OrganyzationTest;
  
-class GroovyTest{issueId} {
+class GroovyTestGRO-1 { 
     private static final int a = 2;
     private static final int b= 5;
     
