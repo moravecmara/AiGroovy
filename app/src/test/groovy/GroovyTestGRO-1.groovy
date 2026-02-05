@@ -1,2 +1,0 @@
-package app.src.test.groovy;
-import org.junit.Before;\nimport org.junit.Test;\n\nclass GroovyTest3f9a4639-4942-4486-97b5-a3ca7cf5d2ac {\n    private static final int a = 2;\n    private static final int b = 5;\n\n    @Test\n    void maths5p(){\n        assert 7 == add(a, b);\n        assert 10 == multiply(a, b);\n    }\n\n    int add(int a, int bo){\n        return a + b;\n    }\n\n    int multiply(int a, int bo){\n        return a * b;\n    }\n}\n
