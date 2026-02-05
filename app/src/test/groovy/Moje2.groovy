@@ -1,0 +1,2 @@
+class Moje2 {
+}
